@@ -59,10 +59,10 @@
     "prettier": "2.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "rollup": "2.26.5",
+    "rollup": "3.29.5",
     "rollup-plugin-peer-deps-external": "2.2.3",
     "rollup-plugin-terser": "5.3.0",
-    "semantic-release": "17.2.4"
+    "semantic-release": "19.0.3"
   },
   "scripts": {
     "build:clean": "rm -Rf dist",
